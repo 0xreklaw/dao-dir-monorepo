@@ -1,0 +1,3 @@
+[submodule "packages/webapp"]
+	path = packages/webapp
+	url = https://github.com/0xreklaw/dao-dir-webapp.git
